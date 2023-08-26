@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "627602879609",
+    "project_id": "webrtcdemo-f638c",
+    "storage_bucket": "webrtcdemo-f638c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627602879609:android:5965a32dcd1b462fdd10a8",
+        "android_client_info": {
+          "package_name": "com.programmersteve105.webRTCDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627602879609-152dn8g5ovptt2etneumeic4a1cg7got.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programmersteve105.webRTCDemo",
+            "certificate_hash": "db0312ae985bd648163eda6b5c4d2a6b8af2618f"
+          }
+        },
+        {
+          "client_id": "627602879609-v6idm8ot26fu065heif0523bl82i52lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programmersteve105.webRTCDemo",
+            "certificate_hash": "40cc5bc611e1dbe697c2cff998cbd2bb546b55ce"
+          }
+        },
+        {
+          "client_id": "627602879609-i93s8mijfj0ipaek103ccrm83kh4c0o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtCCpx0v7JURnBTdi422K1KWEDrY6RkjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627602879609-i93s8mijfj0ipaek103ccrm83kh4c0o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
